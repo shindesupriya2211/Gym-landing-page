@@ -1,0 +1,31 @@
+
+.container{
+    max-width: 100%;
+}
+#navbar{
+    flex-direction:column;
+}
+
+.first-section {
+    flex-direction: column;
+    margin-top: 216px;
+    height: 70vw;
+}
+
+.left {
+    width: auto;
+    margin-top: -163px;
+}
+.right img{
+    margin-left: -100px;
+
+}
+.boxes{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    width: 60vw;
+}
+ 
